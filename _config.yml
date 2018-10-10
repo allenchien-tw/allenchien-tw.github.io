@@ -174,10 +174,10 @@ locales:
 
 Blogroll:
       - name: Freshman
-        href: http://yulijia.net/freshman
+        href: https://allenchien-tw.github.io
         title: Another Jekyll blog theme
       - name: author's website
-        href: http://yulijia.net/
+        href: https://allenchien-tw.github.io
         title: Lijia Yu's website
 
 
