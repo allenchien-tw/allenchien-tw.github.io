@@ -4,6 +4,9 @@ title: [ EdgeX Foundry 開發 01] 安裝 Docker
 layout: post
 author: Allen
 category: EdgeX
+tags: 
+  - EdgeX
+comments: true
 ---
 
 ![title](/images/blog/20181009/20181009-000.png)
