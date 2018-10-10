@@ -42,7 +42,7 @@ locales:
       Google_search: "Site Search"
       Home: "Home"
       About: "About"
-      Guestbook: "Guestbook"
+      #Guestbook: "Guestbook"
       #Subscribe: "Subscribe"
     cn:
       Aboutme: "关于我"
