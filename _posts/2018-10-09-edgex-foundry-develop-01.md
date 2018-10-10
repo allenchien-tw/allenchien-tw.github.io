@@ -1,19 +1,14 @@
 ---
 published: true
-title: 2.0 version
+title: [ EdgeX Foundry 開發 01] 安裝 Docker
 layout: post
-author: Yu 
-category: news
-tags:
-- version
-- new features
-- google analytics
-- google search
-- back to top
-- read more
+author: Allen
+category: EdgeX
 ---
 
-Today, I update the theme with some new features. Welcome to use freshman21 2.0 version(gh-pages branch).
+![title](/images/blog/20181009/20181009-000.png)
+
+EdgeXFoundry 是基於 Docker 為基礎，所以需要先安裝 Docker，在 Linux 環境下可以依照下列步驟進行安裝
 
 **gh-pages branch new features** :
 
