@@ -15,9 +15,9 @@ locale: en_US
 fb_username:  tw.allenchien
 github_username:  allenchien-tw
 favicon:     "/images/favicon.ico"
-aboutme: Hi, 這裡是 ALLEN 軟體開發與學習的日誌. # these are shown on aboutme-sidebar.
+aboutme: Hi, 這裡是 ALLEN 軟體開發與學習的日誌 # these are shown on aboutme-sidebar.
 aboutme_photo: "/images/me.jpg"
-google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key:  # put YOUR key here to enable tracking! (blank to disable)
 
 
 ### Site setting:
@@ -43,7 +43,7 @@ locales:
       Home: "Home"
       About: "About"
       Guestbook: "Guestbook"
-      Subscribe: "Subscribe"
+      #Subscribe: "Subscribe"
     cn:
       Aboutme: "关于我"
       Archives: "存档"
