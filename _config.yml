@@ -1,21 +1,21 @@
 ### Site info:
-title: Allen Chien
-tagline: Another Jekyll theme, Freshman twenty-first
+title: ALLEN 軟體開發誌
+tagline: 軟體開發。讀書心得
 author: Allen Chien
 email: allenchien.tw@gmail.com
-description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Jekyll, theme, Freshman21"
+description: "Allen" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: "Python ETF"
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://allenchien-tw.github.io" # the base hostname & protocol for your site
 locale: en_US
 
 ### Personal info and site tools info:
-twitter_username: yulijia
+#twitter_username: yulijia
 github_username:  yulijia
-disqus_shortname: freshman21
+disqus_shortname: allenchien-tw
 favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
-aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg# your photo.
+aboutme: Hi, 這裡是 ALLEN 軟體開發與學習的日誌. # these are shown on aboutme-sidebar.
+aboutme_photo: "/images/me.jpg"
 google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
 
