@@ -1,6 +1,6 @@
 ---
 published: true
-title: [ EdgeX Foundry 開發 01] 安裝 Docker
+title: EdgeX Foundry 開發 01 安裝 Docker
 layout: post
 author: Allen
 category: EdgeX
@@ -9,7 +9,7 @@ tags:
 comments: true
 ---
 
-![title](/images/blog/20181009/20181009-000.png)
+![docker](/images/blog/20181009/20181009-000.png)
 
 EdgeXFoundry 是基於 Docker 為基礎，所以需要先安裝 Docker，在 Linux 環境下可以依照下列步驟進行安裝
 
