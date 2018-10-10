@@ -11,8 +11,9 @@ locale: en_US
 
 ### Personal info and site tools info:
 #twitter_username: yulijia
-github_username:  yulijia
-disqus_shortname: allenchien-tw
+#disqus_shortname: allenchien-tw
+fb_username:  tw.allenchien
+github_username:  allenchien-tw
 favicon:     "/images/favicon.ico"
 aboutme: Hi, 這裡是 ALLEN 軟體開發與學習的日誌. # these are shown on aboutme-sidebar.
 aboutme_photo: "/images/me.jpg"
