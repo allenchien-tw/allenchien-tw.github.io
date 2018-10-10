@@ -6,10 +6,11 @@
 
   {% if site.ShowContactInfo == "True" %}
   
-  <br />
-  <a href="mailto:{{site.email}}" title="mailto: {{site.email}}">Email</a> /
+  <a href="https://github.com/{{site.github_username}}" class="btn btn-social-icon btn-twitter">
+    <span class="fa fa-twitter"></span>
+  </a>
+  <a href="mailto:{{site.email}}" class="fa fa-google"></a>
   <a href="https://github.com/{{site.github_username}}" title="GithubID: {{site.github_username}}">Github</a> /
-  <a href="https://www.facebook.com/{{site.fb_username}}" title="Facebook: {{site.fb_username}}">Facebook</a> /
 
   {% endif %}
 
