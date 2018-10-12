@@ -15,7 +15,7 @@ locale: en_US
 fb_username: tw.allenchien
 github_username: allenchien-tw
 favicon: "/images/favicon.ico"
-aboutme: Hi, 這裡是 ALLEN 軟體開發學習日誌 # these are shown on aboutme-sidebar.
+aboutme: 我是 ALLEN 目前從事物聯網軟體開發的工作 # these are shown on aboutme-sidebar.
 aboutme_photo: "/images/me.png"
 google_analytics_key: UA-127402486-1  # put YOUR key here to enable tracking! (blank to disable)
 
@@ -27,7 +27,7 @@ default_locale: "en" # blog sidebar language set, only include: English (en), Ch
 
 locales:
     en:
-      Aboutme: "ALLEN"
+      Aboutme: "Hi, "
       Archives: "文章"
       Blogroll: "Blogroll"
       Categories: "分類"
