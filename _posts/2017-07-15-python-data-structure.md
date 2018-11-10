@@ -1,6 +1,6 @@
 ---
 published: true
-title: (Python-學習-04) --- Python Data Structure
+title: (Python-學習-03) --- Python Function
 layout: post
 author: Allen
 category: Python
@@ -9,7 +9,7 @@ tags:
 comments: true
 ---
 
-![book](/images/blog/20170715/2017071-000.png)
+![book](/images/blog/20170715/20170715-000.png)
 
 # List 基礎
 Python 的 list 資料結構非常實用，可以支援索引(index)與切片(slice)
