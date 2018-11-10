@@ -9,7 +9,7 @@ tags:
 comments: true
 ---
 
-![book](/images/blog/20170130/20170130
+![book](/images/blog/20170130/2017013-000.png)
 
 
 接下來介紹 Python 對於程式流程的控制邏輯，基本上與一般 C/Java 語言類似，主要需要注意的是
