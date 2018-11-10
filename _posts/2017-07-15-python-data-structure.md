@@ -1,6 +1,6 @@
 ---
 published: true
-title: (Python-學習-02) --- Python Control Flow
+title: (Python-學習-04) --- Python 資料結構
 layout: post
 author: Allen
 category: Python
