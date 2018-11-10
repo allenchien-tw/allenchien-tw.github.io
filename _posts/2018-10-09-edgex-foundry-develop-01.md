@@ -1,6 +1,6 @@
 ---
 published: true
-title: EdgeX-Foundry-開發-01 --- 安裝 Docker
+title: \[EdgeX-Foundry-開發-01\] --- 安裝 Docker
 layout: post
 author: Allen
 category: EdgeX
