@@ -1,6 +1,6 @@
 ---
 published: true
-title: (Python-學習-08) --- Python Class
+title: (Python-學習-08) --- Python 類別
 layout: post
 author: Allen
 category: Python

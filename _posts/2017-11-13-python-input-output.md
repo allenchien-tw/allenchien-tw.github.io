@@ -1,6 +1,6 @@
 ---
 published: true
-title: (Python-學習-06) --- Python Input/Output
+title: (Python-學習-06) --- Python 輸入與輸出
 layout: post
 author: Allen
 category: Python

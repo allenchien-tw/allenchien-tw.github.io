@@ -1,6 +1,6 @@
 ---
 published: true
-title: (Python-學習-05) --- Python Module
+title: (Python-學習-05) --- Python 模組
 layout: post
 author: Allen
 category: Python

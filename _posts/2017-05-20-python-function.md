@@ -1,6 +1,6 @@
 ---
 published: true
-title: (Python-學習-03) --- Python Function
+title: (Python-學習-03) --- Python 函數
 layout: post
 author: Allen
 category: Python
