@@ -9,7 +9,7 @@ tags:
 comments: true
 ---
 
-![book](/images/blog/20180228/20180228-000.png)
+![book](/images/blog/20170715/2017071-000.png)
 
 # List 基礎
 Python 的 list 資料結構非常實用，可以支援索引(index)與切片(slice)

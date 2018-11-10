@@ -9,7 +9,7 @@ tags:
 comments: true
 ---
 
-![book](/images/blog/20180505/20180505-000.png)
+![book](/images/blog/20171113/20171113-000.png)
 
 
 在Python中，有時會需要列印出一些內容方便顯示與除錯。因此Python提供兩種格式化輸出方式

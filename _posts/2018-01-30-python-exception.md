@@ -9,7 +9,7 @@ tags:
 comments: true
 ---
 
-![book](/images/blog/20180620/20180620-000.png)
+![book](/images/blog/20180130/20180130-000.png)
 
 
 # 異常處理

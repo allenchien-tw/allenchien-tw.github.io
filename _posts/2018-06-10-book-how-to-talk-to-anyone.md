@@ -9,7 +9,7 @@ tags:
 comments: true
 ---
 
-![book](/images/blog/20180823/20180823-000.png)
+![book](/images/blog/20180610/20180610-000.png)
 
 
 # 第一部分　不用開口就讓全場驚豔
