@@ -3,9 +3,9 @@ published: true
 title: 小資賺千萬人脈理財術 
 layout: post
 author: Allen
-category: 人脈
+category: 溝通
 tags: 
-  - 人脈
+  - 溝通
 comments: true
 ---
 
