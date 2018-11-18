@@ -188,6 +188,8 @@ markdown: kramdown
 kramdown:
         input: GFM
         syntax_highlighter: rouge
-plugins: [jekyll-paginate]
+plugins: 
+    - jekyll-sitemap
+    - jekyll-paginate
 paginate: 5
 excerpt_separator: <!-- more -->
