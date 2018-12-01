@@ -4,6 +4,8 @@ title: (Python-學習-09) --- 使用 Flassger 自動產生 API 文件
 layout: post
 author: Allen
 category: Python
+type: Blog
+image: /images/blog/20181129/20181129-000.png
 tags: 
   - Python
 comments: true
