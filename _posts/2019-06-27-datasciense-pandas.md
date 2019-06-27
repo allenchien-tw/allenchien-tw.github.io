@@ -1,13 +1,13 @@
 ---
 published: true
-title: (Python-資料科學-01) --- 學習 Pandas Time Series
+title: (資料科學-01) --- 學習 Pandas Time Series
 layout: post
 author: Allen
 category: 資料科學
 type: Blog
 image: /images/blog/20190627/20190627-000.png
 tags: 
-  - Python
+  - 資料科學
 comments: true
 ---
 
