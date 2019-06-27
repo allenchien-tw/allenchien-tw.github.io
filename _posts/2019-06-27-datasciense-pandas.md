@@ -1,13 +1,13 @@
 ---
 published: true
-title: (資料科學-01) --- 學習 Pandas Time Series
+title: (資料科學-01) --- 學習 Pandas 使用 Time Series 結構
 layout: post
 author: Allen
 category: 資料科學
 type: Blog
 image: /images/blog/20190627/20190627-000.png
 tags: 
-  - 資料科學
+  - Python
 comments: true
 ---
 
@@ -35,3 +35,33 @@ date = pd.date_range('20180101', periods=6)
 s = pd.Series([1,2,3,4,5,6], index=date)
 ```
 ![book](/images/blog/20190627/20190627-002.png)
+
+## 3. 一次設定所有值
+```python
+s = pd.Series(2, index=date)
+```
+![book](/images/blog/20190627/20190627-003.png)
+
+## 4. 使用 loc() 查找某一個值
+```python
+date = pd.date_range('20180101', periods=6)
+s = pd.Series([1,2,3,4,5,6], index=date)
+s.loc['20180104']
+```
+![book](/images/blog/20190627/20190627-004.png)
+
+```python
+s.loc['20180102':'2018-01-04']
+```
+![book](/images/blog/20190627/20190627-005.png)
+
+## 5. 使用 iloc() 查找某一個值
+```python
+s.iloc[1]
+```
+![book](/images/blog/20190627/20190627-006.png)
+
+```python
+s.iloc[1:4]
+```
+![book](/images/blog/20190627/20190627-007.png)
