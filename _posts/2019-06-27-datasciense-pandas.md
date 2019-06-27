@@ -85,20 +85,22 @@ print(r6)
 ![book](/images/blog/20190627/20190627-008.png)
 
 
-## 6. 整體序列計算
+## 7. 整體序列計算
 ```python
 print(s)
 print(s + 1)
 print(s - 1)
+```
+![book](/images/blog/20190627/20190627-009.png)
+```python
 print(s * 2)
 print(s / 2)
 print(s > 3)
 print(s < 3)
 ```
-![book](/images/blog/20190627/20190627-009.png)
 ![book](/images/blog/20190627/20190627-010.png)
 
-## 7. 繪圖
+## 8. 繪圖
 ```python
 %matplotlib inline
 s.plot()
