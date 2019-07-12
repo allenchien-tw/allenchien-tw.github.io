@@ -4,7 +4,7 @@ tagline: 軟體開發。讀書心得
 author: Allen Chien
 email: allenchien.tw@gmail.com
 description: "Allen" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Python ETF"
+keywords: "Allen, Python, EdgeX, Flasgger, Pandas"
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://allenchien-tw.github.io" # the base hostname & protocol for your site
 locale: en_US
@@ -191,5 +191,5 @@ kramdown:
 plugins: 
     - jekyll-sitemap
     - jekyll-paginate
-paginate: 5
+paginate: 10
 excerpt_separator: <!-- more -->
