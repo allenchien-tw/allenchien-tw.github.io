@@ -1,6 +1,7 @@
 ---
 published: true
 title: (Python-學習-09) --- 使用 Flassger 自動產生 API 文件
+description: 使用 Python Flask 與 Swagger 組合的 API 文件產生的 Open Source Library，Flassger
 layout: post
 author: Allen
 category: Python
@@ -8,6 +9,7 @@ type: Blog
 image: /images/blog/20181129/20181129-000.png
 tags: 
   - Python
+  - Flassger
 comments: true
 ---
 

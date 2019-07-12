@@ -1,13 +1,15 @@
 ---
 published: true
-title: (資料科學-01) --- 學習 Pandas 使用 Time Series 結構
+title: (Python-Pandas-01) --- 學習 Pandas 使用 Time Series 結構
+description: 使用 Python Pandas 的 Time Series 功能，並說明 iloc 與 loc 區別
 layout: post
 author: Allen
-category: 資料科學
+category: Pandas
 type: Blog
 image: /images/blog/20190627/20190627-000.png
 tags: 
   - Python
+  - Pandas
 comments: true
 ---
 
