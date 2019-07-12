@@ -8,6 +8,7 @@ keywords: "Allen, Python, EdgeX, Flasgger, Pandas"
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://allenchien-tw.github.io" # the base hostname & protocol for your site
 locale: en_US
+permalink: /blog/:year/:month/:day/:title
 
 ### Personal info and site tools info:
 #twitter_username: yulijia
