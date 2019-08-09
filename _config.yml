@@ -66,6 +66,5 @@ kramdown:
 plugins: 
     - jekyll-sitemap
     - jekyll-paginate
-    - jekyll-redirect-from
 paginate: 10
 excerpt_separator: <!-- more -->
