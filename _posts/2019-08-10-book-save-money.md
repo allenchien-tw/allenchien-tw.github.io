@@ -1,6 +1,6 @@
 ---
 published: true
-title: 養錢練習
+title: [讀書心得] 養錢練習
 layout: post
 author: Allen
 category: 理財

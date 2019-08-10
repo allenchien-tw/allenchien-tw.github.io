@@ -1,6 +1,6 @@
 ---
 published: true
-title: 小資賺千萬人脈理財術 
+title: [讀書心得] 小資賺千萬人脈理財術 
 layout: post
 author: Allen
 category: 溝通

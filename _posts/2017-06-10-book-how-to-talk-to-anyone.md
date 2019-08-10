@@ -1,6 +1,6 @@
 ---
 published: true
-title: 跟任何人都聊得來
+title: [讀書心得] 跟任何人都聊得來
 layout: post
 author: Allen
 category: 溝通

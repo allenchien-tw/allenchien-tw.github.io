@@ -1,6 +1,6 @@
 ---
 published: true
-title: Intro to Growth Hack
+title: [讀書心得] Intro to Growth Hack
 layout: post
 author: Allen
 category: 行銷
