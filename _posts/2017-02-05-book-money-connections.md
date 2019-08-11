@@ -1,11 +1,12 @@
 ---
 published: true
-title: [讀書心得] 小資賺千萬人脈理財術 
+title: (讀書心得) --- 小資賺千萬人脈理財術 
 layout: post
 author: Allen
-category: 溝通
+category: 讀書心得
 tags: 
-  - 溝通
+  - 商業
+  - 讀書心得
 comments: true
 ---
 

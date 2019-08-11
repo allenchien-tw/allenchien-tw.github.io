@@ -1,11 +1,12 @@
 ---
 published: true
-title: [讀書心得] 跟任何人都聊得來
+title: (讀書心得) --- 跟任何人都聊得來
 layout: post
 author: Allen
-category: 溝通
+category: 讀書心得
 tags: 
-  - 溝通
+  - 管理
+  - 讀書心得
 comments: true
 ---
 

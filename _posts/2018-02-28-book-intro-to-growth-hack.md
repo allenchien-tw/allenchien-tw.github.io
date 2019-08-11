@@ -1,11 +1,12 @@
 ---
 published: true
-title: [讀書心得] Intro to Growth Hack
+title: (讀書心得) --- Intro to Growth Hack
 layout: post
 author: Allen
-category: 行銷
+category: 讀書心得
 tags: 
-  - 行銷
+  - 商業
+  - 讀書心得
 comments: true
 ---
 
