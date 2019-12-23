@@ -9,7 +9,7 @@ tags:
 comments: true
 ---
 
-![logo](/images/blog/20191217/20191217-000.png)
+![logo](/images/blog/20191217/20191217-001.png)
 
 # 安裝準備
 先安裝必要的 Ubuntu 套件
