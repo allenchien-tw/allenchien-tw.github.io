@@ -30,5 +30,10 @@ comments: true
 [(Nginx-架設-02) --- Nginx 啟動教學](https://allenchien-tw.github.io/blog/2019/12/18/nginx-install-02)
 
 
-# 
+# 取得免費 SSL 憑證
 
+在線上工具中，輸入你的網站 domain，並按下 *Create Free SSL Certificate* 按鈕
+![nginx](/images/blog/20191218/20191219-001.png)
+
+在下一頁中，網站會要求你進行驗證，確認你是網站管理員，我採用手動驗證的方式
+![nginx](/images/blog/20191218/20191219-002.png)
