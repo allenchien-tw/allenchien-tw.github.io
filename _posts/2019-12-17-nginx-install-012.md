@@ -1,11 +1,14 @@
 ---
 published: true
-title: (Nginx-安裝-01) --- Nginx 安裝
+title: (Nginx-架設-01) --- Nginx 安裝教學
 layout: post
 author: Allen
 category: Nginx
 tags: 
   - Nginx
+  - 架設
+  - 安裝
+  - 教學
 comments: true
 ---
 

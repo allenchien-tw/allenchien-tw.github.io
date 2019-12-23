@@ -1,11 +1,14 @@
 ---
 published: true
-title: (Nginx-啟動-02) --- Nginx 啟動
+title: (Nginx-架設-02) --- Nginx 啟動教學
 layout: post
 author: Allen
 category: Nginx
 tags: 
   - Nginx
+  - 架設
+  - 安裝
+  - 教學
 comments: true
 ---
 
