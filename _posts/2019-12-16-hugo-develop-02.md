@@ -20,10 +20,14 @@ comments: true
 透過 https://github.com/gohugoio/hugo/releases
 下載
 
+
+
 # 設定 Windows 環境變數
 ![hugo](/images/blog/20191216/20191216-002.png)
 
 將下載下來的 *hugo.exe* 增加到 Windows 的 *PATH* 環境變數設定
+
+
 
 # 建立新網站目錄
 
@@ -32,6 +36,8 @@ comments: true
 
 同時搭配 Github 進行程式碼管理
 ![hugo](/images/blog/20191216/20191216-004.png)
+
+
 
 # 下載 Theme
 https://github.com/budparr/gohugo-theme-ananke
@@ -50,6 +56,8 @@ title = "My New Hugo Site"
 theme = "ananke"
 ```
 
+
+
 # 建立第一篇文章
 
 ![hugo](/images/blog/20191216/20191216-005.png)
@@ -64,6 +72,8 @@ draft: false
 
 Hellow World!!
 ```
+
+
 
 # 測試結果
 ![hugo](/images/blog/20191216/20191216-006.png)

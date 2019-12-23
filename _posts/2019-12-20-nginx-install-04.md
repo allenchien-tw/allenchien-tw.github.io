@@ -20,7 +20,7 @@ comments: true
 # STEP-1. 上傳憑證檔案至網站目錄中
 ![nginx](/images/blog/20191220/20191220-001.png)
 
-# 
+
 
 # STEP-2. 開啟 Nginx 設定檔，指向 SSL 憑證路徑
 ![nginx](/images/blog/20191220/20191220-002.png)
@@ -32,7 +32,7 @@ listen  443 ssl;
 ssl_certificate /xxx/ca/certificate.crt
 ssl_certificate_key /xxx/ca/private.key
 ```
-# 
+  
 
 # STEP-3. 重新啟動 Nginx 就可以看到憑證
 ![nginx](/images/blog/20191220/20191220-003.png)

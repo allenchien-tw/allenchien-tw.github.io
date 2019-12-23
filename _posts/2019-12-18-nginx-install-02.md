@@ -31,6 +31,8 @@ $ nginx
 結果如下圖
 ![nginx](/images/blog/20191218/20191218-002.png)
 
+  
+
 # Nginx 停止與其他操作
 
 ```console

@@ -21,17 +21,23 @@ comments: true
 sudo apt install curl gnupg2 ca-certificates lsb-release
 ```
 
+
+
 使用下列命令，確認 APT 的正確資源來源
 ```console
 echo "deb http://nginx.org/packages/ubuntu `lsb_release -cs` nginx" \
     | sudo tee /etc/apt/sources.list.d/nginx.list
 ```
 
+
+
 匯入 Nginx 官方金鑰
 ```console
 curl -fsSL https://nginx.org/keys/nginx_signing.key | sudo apt-key add -
 sudo apt-key fingerprint ABF5BD827BD9BF62
 ```
+
+
 
 # 安裝 Nginx 
 安裝 Nginx 
