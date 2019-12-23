@@ -11,7 +11,24 @@ comments: true
 
 ![logo](/images/blog/20191218/20191218-001.png)
 
-# 可以使用下列命令進行 Nginx 的啟動與停止
+# Nginx 確認是否安裝成功
+
+```console
+$ nginx -v
+
+nginx version: nginx/1.16.1
+```
+
+
+# Nginx 啟動
+
+```console
+$ nginx
+```
+結果如下圖
+![nginx]](/images/blog/20191218/20191218-002.png)
+
+# Nginx 停止與其他操作
 
 ```console
 nginx -s stop    (停止)
