@@ -21,10 +21,14 @@ comments: true
 
 目前因為 Google Search 政策，要求網站必須支援 HTTPS 網路協定才能讓網站的搜尋排名能夠提高。
 但是，針對剛開始架站的人來說，在網站人數還不夠多時，也不太能付出太多成本購買很貴的 SSL 憑證。
-幸運的事，我在網路上查到 [這篇文章](https://free.com.tw/ssl-for-free/) ，剛好有介紹免費 SSL 的安裝方式。
+幸運的事，我在網路上查到 [這篇文章](https://free.com.tw/ssl-for-free/) ，剛好有介紹到 [SSL For Free](https://www.sslforfree.com/) 這個好用的資源
+
+透過 [SSL For Free](https://www.sslforfree.com/) 線上工具，讓你從網站上取得免費 SSL 憑證，然後再匯入到 Nginx 中
+可以參考之前的文章
+
+[(Nginx-架設-01) --- Nginx 安裝教學](https://allenchien-tw.github.io/blog/2019/12/17/nginx-install-012)
+[(Nginx-架設-02) --- Nginx 啟動教學](https://allenchien-tw.github.io/blog/2019/12/18/nginx-install-02)
 
 
-
-
-
+# 
 
