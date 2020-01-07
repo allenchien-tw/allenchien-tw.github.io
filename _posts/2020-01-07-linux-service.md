@@ -36,6 +36,7 @@ ps aux
 
 ## STEP-1 : 撰寫 service
 撰寫 service 文件
+
 ```console
 [Unit]
 Description=abc service
@@ -48,4 +49,17 @@ Restart=always
 
 [Install]
 WantedBy=multi-user.target
+```
+
+## STEP-2 : 啟動 Service
+使用 start 啟動 service 之後，無論如何 kill process 都可以重新啟動
+
+```console
+sudo systemctl start abc.service
+```
+
+
+## STEP-3 : 停止 Service
+```console
+sudo systemctl stop abc.service
 ```
