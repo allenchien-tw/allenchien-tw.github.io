@@ -29,7 +29,7 @@ nohup python api.py &
 ```console
 ps aux
 ```
-![ps]](/images/blog/20200107/20200107-001.png)
+![ps](/images/blog/20200107/20200107-001.png)
 
 
 # 使用 Linux systemd 建立 service
